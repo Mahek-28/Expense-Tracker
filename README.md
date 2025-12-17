@@ -6,16 +6,16 @@ A simple Python-based Expense Tracker application that helps users record expens
 
 ## ✨ Features
 
-– Add and manage expenses
-– Categorize spending
-– Graphical visualization of expenses
+- Add and manage expenses
+- Categorize spending
+- Graphical visualization of expenses
 
 ---
 
 ## 📦 Expense-Tracker Project Structure
- ┣ 📜 README.md
- ┣ 📜 main.py
- ┣ 📜 mydb.py
+ ┣ -📜 README.md
+ ┣ -📜 main.py
+ ┣ -📜 mydb.py
 
 ---
 
@@ -34,7 +34,6 @@ git clone https://github.com/Mahek-28/Expense-Tracker.git
 cd Expense-Tracker
 python main.py
 
----
 ```
 ---
 
