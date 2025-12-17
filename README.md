@@ -4,7 +4,7 @@ A simple Python-based Expense Tracker application that helps users record expens
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 – Add and manage expenses
 – Categorize spending
@@ -19,7 +19,7 @@ A simple Python-based Expense Tracker application that helps users record expens
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 - Tkinter (for UI)
@@ -38,6 +38,6 @@ python main.py
 ```
 ---
 
-# 📌 Purpose
+## 📌 Purpose
 
 To help users track daily expenses and understand their financial habits visually.
