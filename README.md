@@ -13,9 +13,9 @@ A simple Python-based Expense Tracker application that helps users record expens
 ---
 
 ## 📦 Expense-Tracker Project Structure
- ┣ -📜 README.md
- ┣ -📜 main.py
- ┣ -📜 mydb.py
+- ┣ 📜 README.md
+- ┣ 📜 main.py
+- ┣ 📜 mydb.py
 
 ---
 
