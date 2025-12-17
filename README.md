@@ -1,2 +1,4 @@
-# Expense-Tracker
-It will track your expenses. Also shows graphical visualization for better understanding.
+📊 Expense Tracker
+
+A simple Python-based Expense Tracker application that helps users record expenses and visualize spending patterns using graphical chart
+
