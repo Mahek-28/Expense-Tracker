@@ -1,33 +1,43 @@
-📊 Expense Tracker
+# 📊 Expense Tracker
 
 A simple Python-based Expense Tracker application that helps users record expenses and visualize spending patterns using graphical chart
 
-✨ Features
+---
+
+# ✨ Features
 
 – Add and manage expenses
 – Categorize spending
 – Graphical visualization of expenses
 
+---
 
-📦 Expense-Tracker
+## 📦 Expense-Tracker Project Structure
  ┣ 📜 README.md
  ┣ 📜 main.py
  ┣ 📜 mydb.py
 
+---
 
- 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Python
 - Tkinter (for UI)
 - Matplotlib (for graphs)
 - SQLLite3 (for Database)
 
-🚀 Run the Project
+---
 
+### 🚀 Run the Project
+```bash
 git clone https://github.com/Mahek-28/Expense-Tracker.git
 cd Expense-Tracker
 python main.py
 
-📌 Purpose
+---
+```
+---
+
+# 📌 Purpose
 
 To help users track daily expenses and understand their financial habits visually.
